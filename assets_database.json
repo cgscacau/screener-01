@@ -1,0 +1,65 @@
+{
+  "acoes_brasileiras": {
+    "nome": "Ações Brasileiras (B3)",
+    "descricao": "Principais ações da Bolsa Brasileira",
+    "tickers": [
+      "PETR4.SA", "VALE3.SA", "ITUB4.SA", "BBDC4.SA", "ABEV3.SA",
+      "WEGE3.SA", "MGLU3.SA", "ELET3.SA", "SUZB3.SA", "RENT3.SA",
+      "LREN3.SA", "JBSS3.SA", "BBAS3.SA", "ITSA4.SA", "BRDT3.SA",
+      "RADL3.SA", "CCRO3.SA", "RAIL3.SA", "CSAN3.SA", "CMIG4.SA",
+      "GGBR4.SA", "USIM5.SA", "CSNA3.SA", "GOAU4.SA", "KLBN11.SA",
+      "EMBR3.SA", "AZUL4.SA", "GOLL4.SA", "CYRE3.SA", "MRFG3.SA",
+      "PCAR3.SA", "VIVT3.SA", "TIMP3.SA", "BRAP4.SA", "CIEL3.SA",
+      "B3SA3.SA", "TOTS3.SA", "HAPV3.SA", "FLRY3.SA", "RDOR3.SA",
+      "QUAL3.SA", "IRBR3.SA", "PRIO3.SA", "UGPA3.SA", "LWSA3.SA",
+      "ASAI3.SA", "SOMA3.SA", "VBBR3.SA", "PETZ3.SA", "NTCO3.SA"
+    ]
+  },
+  "fiis": {
+    "nome": "Fundos Imobiliários (FIIs)",
+    "descricao": "Fundos de Investimento Imobiliário da B3",
+    "tickers": [
+      "HGLG11.SA", "XPML11.SA", "VISC11.SA", "BCFF11.SA", "KNRI11.SA",
+      "MXRF11.SA", "HGRE11.SA", "GGRC11.SA", "KNCR11.SA", "HGRU11.SA",
+      "RZTR11.SA", "BTLG11.SA", "XPLG11.SA", "RBRP11.SA", "MALL11.SA",
+      "URPR11.SA", "VILG11.SA", "JSRE11.SA", "KNSC11.SA", "VGIR11.SA"
+    ]
+  },
+  "etfs_brasileiros": {
+    "nome": "ETFs Brasileiros",
+    "descricao": "Exchange Traded Funds da B3",
+    "tickers": [
+      "BOVA11.SA", "IVVB11.SA", "SMAL11.SA", "PIBB11.SA", "ISUS11.SA",
+      "BRAX11.SA", "DIVO11.SA", "XBOV11.SA", "MATB11.SA", "FIND11.SA"
+    ]
+  },
+  "acoes_americanas": {
+    "nome": "Ações Americanas",
+    "descricao": "Principais ações do mercado americano",
+    "tickers": [
+      "AAPL", "MSFT", "GOOGL", "AMZN", "TSLA", "META", "NVDA", "NFLX",
+      "BRK-B", "JNJ", "JPM", "V", "PG", "UNH", "MA", "HD", "DIS",
+      "PYPL", "ADBE", "CRM", "CMCSA", "PFE", "VZ", "KO", "INTC"
+    ]
+  },
+  "criptomoedas": {
+    "nome": "Criptomoedas",
+    "descricao": "Principais criptomoedas",
+    "tickers": [
+      "BTC-USD", "ETH-USD", "BNB-USD", "XRP-USD", "ADA-USD",
+      "SOL-USD", "DOGE-USD", "DOT-USD", "MATIC-USD", "AVAX-USD"
+    ]
+  },
+  "commodities": {
+    "nome": "Commodities",
+    "descricao": "Principais commodities e futuros",
+    "tickers": [
+      "GC=F", "SI=F", "CL=F", "NG=F", "HG=F", "ZC=F", "ZS=F", "KC=F"
+    ]
+  },
+  "minha_carteira": {
+    "nome": "Minha Carteira",
+    "descricao": "Lista personalizada do usuário",
+    "tickers": []
+  }
+}
